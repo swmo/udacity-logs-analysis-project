@@ -10,7 +10,7 @@ Script tested with Python 2.7 and PostgreSQL 9.5.14
 * Install python
 * Install Postgres
 * make sure psycopg is installed
-''' pip install psycopg2 '''
+``` pip install psycopg2 ```
 
 ### Installing
 * create a database with the name news
@@ -19,7 +19,7 @@ Script tested with Python 2.7 and PostgreSQL 9.5.14
 
 ### Run
 Now you can simple run the script:
-'''  python news.py '''
+```  python news.py ```
 
 
 
