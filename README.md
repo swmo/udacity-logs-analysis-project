@@ -14,7 +14,7 @@ Script tested with Python 2.7 and PostgreSQL 9.5.14
 
 ### Installing
 * create a database with the name news
-* make sure you restored the data into the news database: [newsdata.zip](https://s3.amazonaws.com/video.udacity-data.com/topher/2016/August/57b5f748_newsdata/newsdata.zip)
+* make sure you restored the data into the news database: [newsdata.zip](https://s3.amazonaws.com/video.udacity-data.com/topher/2016/August/57b5f748_newsdata/newsdata.zip) (udacity sql dump)
 '''psql -d news -f newsdata.sql'''
 
 ### Run
