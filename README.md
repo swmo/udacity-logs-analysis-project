@@ -21,5 +21,7 @@ Script tested with Python 2.7 and PostgreSQL 9.5.14
 Now you can simple run the script:
 ```  python news.py ```
 
+you can also have a look at output.txt, it's an example of the program's output:
+
 
 
